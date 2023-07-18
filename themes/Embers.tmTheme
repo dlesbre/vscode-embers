@@ -106,6 +106,17 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Attribute Keywords</string>
+			<key>scope</key>
+			<string>keyword.other.attribute, keyword.operator.attribute</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#AAAAAA</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Types</string>
 			<key>scope</key>
 			<string>type, support.type, entity.name.type</string>
@@ -277,7 +288,18 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#c1001f</string>
+				<string>#F55D58</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Tags Punctuation</string>
+			<key>scope</key>
+			<string>punctuation.definition.tag</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#7d7d7d</string>
 			</dict>
 		</dict>
 		<dict>
@@ -536,8 +558,7 @@
 			<key>name</key>
 			<string>Module</string>
 			<key>scope</key>
-			<string>meta.module,
-meta.module-reference</string>
+			<string>meta.module, meta.module-reference</string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
@@ -548,10 +569,7 @@ meta.module-reference</string>
 			<key>name</key>
 			<string>Pattern match</string>
 			<key>scope</key>
-			<string>pattern-match,
-meta.pattern-match,
- keyword.control.match-definition.ocaml,
-punctuation.separator.variant-definition.ocaml</string>
+			<string>pattern-match, meta.pattern-match, keyword.control.match-definition.ocaml, punctuation.separator.variant-definition.ocaml</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
