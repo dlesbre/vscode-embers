@@ -1,0 +1,21 @@
+{
+  "name": "embers-dark-color-theme",
+  "displayName": "Embers Dark Color Theme",
+  "description": "Dark high-contrast theme centered around red/orange and yellow",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Embers Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Embers Dark-color-theme.json"
+      }
+    ]
+  }
+}
