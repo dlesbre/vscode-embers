@@ -108,7 +108,7 @@
 			<key>name</key>
 			<string>Attribute Keywords</string>
 			<key>scope</key>
-			<string>keyword.other.attribute, keyword.operator.attribute</string>
+			<string>keyword.other.attribute, keyword.operator.attribute, entity.name.function.decorator</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -119,7 +119,7 @@
 			<key>name</key>
 			<string>Types</string>
 			<key>scope</key>
-			<string>type, support.type, entity.name.type</string>
+			<string>type, support.type, entity.name.type, typeHint</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -178,7 +178,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#eec200</string>
+				<string>#6afffa</string>
 			</dict>
 		</dict>
 		<dict>

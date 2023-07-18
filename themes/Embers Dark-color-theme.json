@@ -7,7 +7,12 @@
 		"variable": "#ffd787",
 		"interface": "#2db068",
 		"type": "#00ff73",
+		"class.typeHint": "#00ff73",
+		"variable.typeHint": "#00ff73",
+		"class.decorator": "#AAAAAA",
+		"function.decorator": "#AAAAAA",
 		"property": "#87ffcf",
+		"class": "#5a48ff",
 		"typeParameter": "#0091ff"
 	},
 	"tokenColors": "./Embers.tmTheme",
