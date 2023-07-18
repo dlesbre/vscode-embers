@@ -1,16 +1,16 @@
-# embers-dark-color-theme README
+<!-- LTeX: language=en -->
 
-## Working with Markdown
+# Embers dark color theme
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+A dark color theme for VS Code using red/orange/yellow for the interface and a
+large variety of colors for syntax. This was born of my frustration at built in
+themes which colored different syntax construct in the same way. I've tried to
+add as colors for as many selectors as possible, with related objects (e.g.
+constants and boolean) having shades of the same color.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+This was mainly designed and tested with OCaml, Coq and Python.
 
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+The interface theming was originaly done with
+[https://themes.vscode.one](https://themes.vscode.one/theme/dlesbre/7VgZP9N3)
+and the syntax highlighting was started using
+[https://tmtheme-editor.glitch.me/](https://tmtheme-editor.glitch.me/)
