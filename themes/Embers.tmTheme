@@ -284,7 +284,7 @@
 			<key>name</key>
 			<string>Attributes</string>
 			<key>scope</key>
-			<string>entity.other.attribute-name, meta.attribute</string>
+			<string>entity.other.attribute-name, meta.attribute, support.type.property-name</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
