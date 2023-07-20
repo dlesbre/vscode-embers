@@ -350,13 +350,13 @@
 			<key>name</key>
 			<string>Headings</string>
 			<key>scope</key>
-			<string>markup.heading punctuation.definition.heading, entity.name.section</string>
+			<string>markup.heading, entity.name.section</string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#24a6e0</string>
+				<string>#44c1ff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -437,7 +437,18 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#44c1ff</string>
+				<string>#dddddd</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Lists punctuation</string>
+			<key>scope</key>
+			<string>punctuation.definition.list, punctuation.definition.quote, punctuation.definition.heading</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#FF7777</string>
 			</dict>
 		</dict>
 		<dict>
