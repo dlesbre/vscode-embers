@@ -64,7 +64,7 @@
 			<key>name</key>
 			<string>Operators</string>
 			<key>scope</key>
-			<string>keyword.operator</string>
+			<string>keyword.operator, punctuation.separator.key-value</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -559,10 +559,8 @@
 			<string>invalid.illegal</string>
 			<key>settings</key>
 			<dict>
-				<key>background</key>
-				<string>#c1001f</string>
 				<key>foreground</key>
-				<string>#1f1e21</string>
+				<string>#FF3333</string>
 			</dict>
 		</dict>
 		<dict>
