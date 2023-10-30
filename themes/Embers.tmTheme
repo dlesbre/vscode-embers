@@ -172,6 +172,17 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Functions</string>
+			<key>scope</key>
+			<string>entity.name.function.preprocessor</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#008BFD</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Classes</string>
 			<key>scope</key>
 			<string>meta.class, support.class, entity.name.class, entity.name.type.class</string>
