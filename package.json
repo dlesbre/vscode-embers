@@ -1,6 +1,7 @@
 {
   "name": "embers-dark-color-theme",
   "displayName": "Embers Dark Color Theme",
+  "author": "Dorian Lesbre",
   "description": "Dark high-contrast theme centered around red/orange and yellow",
   "version": "0.0.1",
   "engines": {
@@ -8,6 +9,19 @@
   },
   "categories": [
     "Themes"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dlesbre/vscode-embers"
+  },
+  "bugs": {
+    "url": "https://github.com/dlesbre/vscode-embers/issues"
+  },
+  "keywords": [
+    "embers",
+    "dark",
+    "theme",
+    "color-theme"
   ],
   "contributes": {
     "themes": [
