@@ -567,7 +567,7 @@
 			<key>name</key>
 			<string>Invalid</string>
 			<key>scope</key>
-			<string>invalid.illegal</string>
+			<string>invalid, invalid.illegal</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
