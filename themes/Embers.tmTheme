@@ -18,17 +18,6 @@
 	<array>
 		<dict>
 			<key>name</key>
-			<string>Text</string>
-			<key>scope</key>
-			<string>variable.parameter.function</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#FFFFFF</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>Comments</string>
 			<key>scope</key>
 			<string>comment, punctuation.definition.comment</string>
@@ -317,7 +306,7 @@
 			<key>name</key>
 			<string>Attributes</string>
 			<key>scope</key>
-			<string>entity.other.attribute-name, meta.attribute, support.type.property-name</string>
+			<string>meta.attribute, support.type.property-name</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -328,7 +317,7 @@
 			<key>name</key>
 			<string>Attribute IDs</string>
 			<key>scope</key>
-			<string>entity.other.attribute-name.id, punctuation.definition.entity</string>
+			<string>entity.other.attribute-name, entity.other.attribute-name.id, punctuation.definition.entity</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -455,7 +444,7 @@
 			<key>name</key>
 			<string>Lists punctuation</string>
 			<key>scope</key>
-			<string>punctuation.definition.list, punctuation.definition.quote, punctuation.definition.heading</string>
+			<string>punctuation.definition.list, punctuation.definition.quote, punctuation.definition.heading, punctuation.separator</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
