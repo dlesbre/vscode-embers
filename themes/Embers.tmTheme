@@ -284,7 +284,7 @@
 			<key>name</key>
 			<string>Constants</string>
 			<key>scope</key>
-			<string>constant</string>
+			<string>constant, support.constant</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
