@@ -3,8 +3,9 @@
   "displayName": "Embers Dark Color Theme",
   "author": "Dorian Lesbre",
   "description": "Dark high-contrast theme centered around red/orange and yellow",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "license": "BSD-3-Clause",
+  "publisher": "dlesbre",
   "engines": {
     "vscode": "^1.80.0"
   },
