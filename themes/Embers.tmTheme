@@ -29,6 +29,39 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Comments Doc</string>
+			<key>scope</key>
+			<string>comment.doc, comment.line.documentation, comment.block.documentation</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#9eb6a3</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Comments Doc Keyword</string>
+			<key>scope</key>
+			<string>keyword.doc-tag</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#6cb5bf</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Embedded in comments</string>
+			<key>scope</key>
+			<string>source.embedded</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#c09c93</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Punctuation</string>
 			<key>scope</key>
 			<string>punctuation.definition.string, punctuation.definition.variable, punctuation.definition.string, punctuation.definition.parameters, punctuation.definition.string, punctuation.definition.array</string>

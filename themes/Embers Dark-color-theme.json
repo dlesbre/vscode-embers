@@ -14,7 +14,9 @@
 		"function.decorator": "#AAAAAA",
 		"property": "#87ffcf",
 		"class": "#5a48ff",
-		"typeParameter": "#0091ff"
+		"typeParameter": "#0091ff",
+		"comment": "#6a8f71",
+		"comment.documentation": "#9eb6a3"
 	},
 	"tokenColors": "./Embers.tmTheme",
 	"colors": {
